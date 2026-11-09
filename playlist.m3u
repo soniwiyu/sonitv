@@ -69,7 +69,5 @@ https://63b2dc7196c38.streamlock.net:1937/PONTV/_definst_/myStream/chunklist_w24
 https://www.streaming.radartv.co.id/hls/test.m3u8
 #EXTINF:-1 tvg-id="RadarTasikmalayaTV.id" group-title="Lokal",Radar Tasikmalaya TV
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
-#EXTINF:-1 tvg-id="SaliraTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png" group-title="Lokal",Salira TV
-https://salira.tv/live/stream.m3u8
 #EXTINF:-1 tvg-id="BRTV.id" group-title="Lokal",BRTV
 https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w1484101028.m3u8
