@@ -3005,3 +3005,8 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
 #EXTINF:-1 group-title="Lokal Jawa Timur",Madu TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
+
+#EXTINF:-1 group-title="Makkah & Madinah",Makkah - Masjidil Haram (Saudi Quran TV)
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+#EXTINF:-1 group-title="Makkah & Madinah",Madinah - Masjid Nabawi (Saudi Sunnah TV)
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
